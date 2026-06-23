@@ -22,6 +22,12 @@ Students learn through:
 
 Learn how this project differs from traditional financial literacy programs by focusing on decision-making, simulations, and long-term consequences.
 
+## For Educators
+
+➡️ [Educator Guide](FOR_EDUCATORS.md)
+
+Learn how the curriculum is structured and how it can be implemented in classrooms, advisory programs, and financial literacy courses.
+
 ## Start Here
 
 ➡️ [Enter Curriculum Hub](curriculum/)
