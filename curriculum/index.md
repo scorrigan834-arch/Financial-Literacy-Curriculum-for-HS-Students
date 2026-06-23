@@ -6,10 +6,6 @@ This is the full Financial Literacy Curriculum structure.
 
 ## How to Use This Curriculum
 
-## Start Here
-
-➡️ [Enter Curriculum Hub](curriculum/)
-
 Start at Module 1 and move sequentially.
 
 Each module includes:
