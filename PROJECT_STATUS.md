@@ -28,7 +28,7 @@ The Financial Literacy Curriculum is an open-source initiative designed to help 
 
 ## Module 1: Money Mindset
 
-### Status: In Progress
+Status: Complete ✅
 
 #### Completed
 
@@ -43,8 +43,8 @@ The Financial Literacy Curriculum is an open-source initiative designed to help 
 
 #### Remaining
 
-* [ ] Student Worksheet
-* [ ] Teacher Answer Key
+- [x] Student Worksheet
+- [x] Teacher Answer Key
 
 ---
 
