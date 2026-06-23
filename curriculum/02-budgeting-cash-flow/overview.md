@@ -26,7 +26,7 @@ Needs vs. Wants
 
 Emergency Funds & Financial Stability
 
-*Coming Soon*
+➡️ [Open Lesson 3](lesson-3-emergency-funds.md)
 
 ### Lesson 4
 
