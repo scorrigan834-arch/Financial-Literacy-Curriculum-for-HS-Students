@@ -34,6 +34,12 @@ Learn how the curriculum is structured and how it can be implemented in classroo
 
 Students model the long-term consequences of major life decisions involving education, careers, debt, housing, saving, and investing.
 
+## Why Change Is Needed
+
+➡️ [The Case for Change](CASE_FOR_CHANGE.md)
+
+Learn why financial decision-making education is needed and how this curriculum addresses the gap.
+
 ## Start Here
 
 ➡️ [Enter Curriculum Hub](curriculum/)
