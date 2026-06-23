@@ -20,7 +20,7 @@ Cash Flow: Money In vs. Money Out
 
 Needs vs. Wants
 
-*Coming Soon*
+➡️ [Open Lesson 2](lesson-2-needs-vs-wants.md)
 
 ### Lesson 3
 
