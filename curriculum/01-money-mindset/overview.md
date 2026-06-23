@@ -20,6 +20,12 @@ Delayed Gratification & Behavioral Finance
 
 ➡️ [Open Lesson 3](lesson-3-delayed-gratification.md)
 
+### Lesson 4
+
+The Power of Compound Growth
+
+➡️ [Open Lesson 4](lesson-4-power-of-compounding.md)
+
 ---
 
 ## Learning Objectives
