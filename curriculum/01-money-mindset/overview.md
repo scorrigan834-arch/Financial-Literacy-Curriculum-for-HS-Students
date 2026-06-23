@@ -1,86 +1,70 @@
 # Module 1: Money Mindset
 
-## Overview
+## Build the foundation for better financial decisions
 
-This module introduces students to how money actually works in real life and how beliefs, habits, and behaviors influence financial outcomes more than income alone.
-
-## Lessons
-
-### Lesson 1
-
-What Is Money?
-
-### Lesson 2
-
-Income vs. Wealth
-
-### Lesson 3
-
-Delayed Gratification & Behavioral Finance
-
-➡️ [Open Lesson 3](lesson-3-delayed-gratification.md)
-
-### Lesson 4
-
-The Power of Compound Growth
-
-➡️ [Open Lesson 4](lesson-4-power-of-compounding.md)
-
-### Assessment
-
-➡️ [Module 1 Assessment](module-1-assessment.md)
-
-### Capstone Simulation
-
-➡️ [Future You Simulation](future-you-simulation.md)
+This module introduces students to how money works, how behavior affects outcomes, and why long-term thinking matters.
 
 ---
 
-## Learning Objectives
+<div class="card-grid">
 
-Students will be able to:
+<div class="card">
+<h3>Lesson 1: What Is Money?</h3>
+<p>Understand money as trust, value exchange, and a tool for decision-making.</p>
+<a href="lesson-1-what-is-money.md">Open Lesson</a>
+</div>
 
-- Explain what money represents in a modern economy
-- Understand the difference between income, wealth, and net worth
-- Identify common financial behaviors that lead to long-term success or failure
-- Recognize the role of delayed gratification in wealth building
+<div class="card">
+<h3>Lesson 2: Income vs. Wealth</h3>
+<p>Learn why earning money and building wealth are not the same thing.</p>
+<a href="lesson-2-income-vs-wealth.md">Open Lesson</a>
+</div>
 
----
+<div class="card">
+<h3>Lesson 3: Delayed Gratification</h3>
+<p>Explore how behavior, habits, and choices compound over time.</p>
+<a href="lesson-3-delayed-gratification.md">Open Lesson</a>
+</div>
 
-## Essential Question
+<div class="card">
+<h3>Lesson 4: Compound Growth</h3>
+<p>See why starting early can matter more than starting with a lot.</p>
+<a href="lesson-4-power-of-compounding.md">Open Lesson</a>
+</div>
 
-> Why do some people with high incomes still struggle financially while others build long-term wealth on moderate incomes?
-
----
-
-## Key Concepts
-
-- Income vs. wealth
-- Cash flow
-- Assets vs. liabilities
-- Behavioral finance basics
-- Delayed gratification
-- Compounding (behavioral and financial)
-
----
-
-## Real-World Connection
-
-Students will explore how early financial decisions (spending habits, saving behavior, and mindset) compound over time and influence life outcomes such as:
-
-- College debt
-- Career flexibility
-- Home ownership
-- Retirement readiness
+</div>
 
 ---
 
-## Activity Idea: "Future You Simulation"
+## Module Resources
 
-Students imagine two versions of themselves:
+<div class="card-grid">
 
-- One who spends impulsively for 10 years
-- One who saves and invests consistently
+<div class="card">
+<h3>Assessment</h3>
+<p>Check student understanding of money mindset concepts.</p>
+<a href="module-1-assessment.md">Open Assessment</a>
+</div>
+
+<div class="card">
+<h3>Student Worksheet</h3>
+<p>Apply the core concepts through reflection and activities.</p>
+<a href="student-worksheet.md">Open Worksheet</a>
+</div>
+
+<div class="card">
+<h3>Teacher Answer Key</h3>
+<p>Suggested answers, discussion guidance, and rubric notes.</p>
+<a href="teacher-answer-key.md">Open Answer Key</a>
+</div>
+
+<div class="card">
+<h3>Future You Simulation</h3>
+<p>Compare two financial futures and reflect on long-term habits.</p>
+<a href="future-you-simulation.md">Open Simulation</a>
+</div>
+
+</div>
 
 They compare outcomes in terms of:
 - Savings
