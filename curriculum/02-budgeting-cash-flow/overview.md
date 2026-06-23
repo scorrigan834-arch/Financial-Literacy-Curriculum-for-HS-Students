@@ -59,9 +59,9 @@ Students will be able to:
 
 ---
 
-## Simulation
-
 ### First Apartment Budget Challenge
+
+➡️ [Open Simulation](first-apartment-budget-challenge.md)
 
 Students will receive:
 
