@@ -26,6 +26,14 @@ The Power of Compound Growth
 
 ➡️ [Open Lesson 4](lesson-4-power-of-compounding.md)
 
+### Assessment
+
+➡️ [Module 1 Assessment](module-1-assessment.md)
+
+### Capstone Simulation
+
+➡️ [Future You Simulation](future-you-simulation.md)
+
 ---
 
 ## Learning Objectives
