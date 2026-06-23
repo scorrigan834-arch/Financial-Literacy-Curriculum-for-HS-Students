@@ -32,7 +32,7 @@ Emergency Funds & Financial Stability
 
 Lifestyle Inflation
 
-*Coming Soon*
+➡️ [Open Lesson 4](lesson-4-lifestyle-inflation.md)
 
 ---
 
