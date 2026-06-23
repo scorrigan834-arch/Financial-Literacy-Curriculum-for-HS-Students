@@ -33,6 +33,12 @@ Students learn through:
 
 We are seeking educators, financial professionals, counselors, and industry leaders to help shape the curriculum.
 
+## Pilot Program
+
+➡️ [Learn About the Pilot Program](PILOT_PROGRAM.md)
+
+Interested educators and schools can test lessons, modules, or the full curriculum and help shape future development.
+
 ---
 
 ### College ROI Simulation
