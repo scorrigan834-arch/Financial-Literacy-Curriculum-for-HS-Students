@@ -6,9 +6,19 @@ This module introduces students to how money actually works in real life and how
 
 ## Lessons
 
-1. What Is Money?
-2. Income vs. Wealth
-3. Delayed Gratification (Coming Soon)
+### Lesson 1
+
+What Is Money?
+
+### Lesson 2
+
+Income vs. Wealth
+
+### Lesson 3
+
+Delayed Gratification & Behavioral Finance
+
+➡️ [Open Lesson 3](lesson-3-delayed-gratification.md)
 
 ---
 
