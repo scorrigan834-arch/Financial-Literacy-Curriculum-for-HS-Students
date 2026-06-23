@@ -28,6 +28,12 @@ Learn how this project differs from traditional financial literacy programs by f
 
 Learn how the curriculum is structured and how it can be implemented in classrooms, advisory programs, and financial literacy courses.
 
+## Signature Experience
+
+➡️ [Design Your Financial Future](DESIGN_YOUR_FINANCIAL_FUTURE.md)
+
+Students model the long-term consequences of major life decisions involving education, careers, debt, housing, saving, and investing.
+
 ## Start Here
 
 ➡️ [Enter Curriculum Hub](curriculum/)
