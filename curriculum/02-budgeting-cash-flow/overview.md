@@ -14,7 +14,7 @@ Students will learn that financial success is not determined solely by income, b
 
 Cash Flow: Money In vs. Money Out
 
-*Coming Soon*
+➡️ [Open Lesson 1](lesson-1-cash-flow.md)
 
 ### Lesson 2
 
