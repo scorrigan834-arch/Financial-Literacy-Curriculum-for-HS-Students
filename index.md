@@ -18,6 +18,8 @@ Students learn through:
 
 ## Start Here
 
+➡️ [Enter Curriculum Hub](curriculum/)
+
 ### Module 1: Money Mindset
 ➡️ [Start Here](curriculum/01-money-mindset/overview.md)
 
