@@ -1,85 +1,67 @@
 # Module 2: Budgeting & Cash Flow
 
-## Overview
+## Learn how to manage money in real life
 
-This module teaches students how to manage money effectively through budgeting, spending decisions, emergency planning, and cash flow management.
-
-Students will learn that financial success is not determined solely by income, but by how money is managed over time.
+This module teaches students how to manage income, expenses, savings, emergencies, and spending decisions.
 
 ---
 
-## Lessons
+<div class="card-grid">
 
-### Lesson 1
+<div class="card">
+<h3>Lesson 1: Cash Flow</h3>
+<p>Understand money coming in, money going out, and why cash flow drives financial stability.</p>
+<a href="lesson-1-cash-flow.md">Open Lesson</a>
+</div>
 
-Cash Flow: Money In vs. Money Out
+<div class="card">
+<h3>Lesson 2: Needs vs. Wants</h3>
+<p>Learn how spending decisions and opportunity cost affect financial goals.</p>
+<a href="lesson-2-needs-vs-wants.md">Open Lesson</a>
+</div>
 
-➡️ [Open Lesson 1](lesson-1-cash-flow.md)
+<div class="card">
+<h3>Lesson 3: Emergency Funds</h3>
+<p>See how emergency savings reduce risk, stress, and reliance on debt.</p>
+<a href="lesson-3-emergency-funds.md">Open Lesson</a>
+</div>
 
-### Lesson 2
+<div class="card">
+<h3>Lesson 4: Lifestyle Inflation</h3>
+<p>Understand why earning more does not automatically lead to building wealth.</p>
+<a href="lesson-4-lifestyle-inflation.md">Open Lesson</a>
+</div>
 
-Needs vs. Wants
-
-➡️ [Open Lesson 2](lesson-2-needs-vs-wants.md)
-
-### Lesson 3
-
-Emergency Funds & Financial Stability
-
-➡️ [Open Lesson 3](lesson-3-emergency-funds.md)
-
-### Lesson 4
-
-Lifestyle Inflation
-
-➡️ [Open Lesson 4](lesson-4-lifestyle-inflation.md)
-
----
-
-## Learning Objectives
-
-Students will be able to:
-
-* Understand cash flow
-* Create a basic budget
-* Distinguish between needs and wants
-* Explain the purpose of an emergency fund
-* Recognize the dangers of lifestyle inflation
+</div>
 
 ---
 
-## Key Concepts
+## Module Resources
 
-* Income
-* Expenses
-* Cash Flow
-* Budgeting
-* Emergency Savings
-* Financial Stability
+<div class="card-grid">
 
----
+<div class="card">
+<h3>Teacher Guide</h3>
+<p>Lesson sequence, teaching notes, discussion prompts, and implementation guidance.</p>
+<a href="teacher-guide.md">Open Teacher Guide</a>
+</div>
 
-### First Apartment Budget Challenge
+<div class="card">
+<h3>Student Worksheet</h3>
+<p>Apply budgeting, cash flow, emergency fund, and lifestyle inflation concepts.</p>
+<a href="student-worksheet.md">Open Worksheet</a>
+</div>
 
-➡️ [Open Simulation](first-apartment-budget-challenge.md)
+<div class="card">
+<h3>Assessment</h3>
+<p>Check student understanding of budgeting and cash flow concepts.</p>
+<a href="module-2-assessment.md">Open Assessment</a>
+</div>
 
-Students will receive:
+<div class="card">
+<h3>First Apartment Budget Challenge</h3>
+<p>Build a realistic budget using salary, housing, transportation, savings, and unexpected expenses.</p>
+<a href="first-apartment-budget-challenge.md">Open Simulation</a>
+</div>
 
-* A career
-* A salary
-* A city
-* Monthly expenses
-
-Students must build a realistic monthly budget and make tradeoff decisions.
-
----
-
-## Assessment
-
-*Coming Soon*
-
----
-
-## Teacher Guide
-
-*Coming Soon*
+</div>
