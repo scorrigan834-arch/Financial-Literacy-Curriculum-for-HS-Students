@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/logo.png" alt="Future Ready Finance Logo" width="220">
+  <img src="./assets/images/logo.png" alt="Future Ready Finance Logo" width="240">
 </p>
 
 # Future Ready Finance
