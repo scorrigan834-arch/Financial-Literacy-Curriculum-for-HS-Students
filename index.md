@@ -39,6 +39,11 @@ We are seeking educators, financial professionals, counselors, and industry lead
 
 Interested educators and schools can test lessons, modules, or the full curriculum and help shape future development.
 
+## Get Involved
+
+➡️ [Contributing Guidelines](CONTRIBUTING.md)
+
+Educators, financial professionals, students, and volunteers are invited to help improve and expand the curriculum.
 ---
 
 ### College ROI Simulation
