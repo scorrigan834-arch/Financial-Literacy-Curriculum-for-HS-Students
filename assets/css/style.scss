@@ -160,3 +160,88 @@ margin: 5px;
 background-color: var(--ocean-blue);
 text-decoration: none;
 }
+
+/* Homepage Card Layout */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #e6e9ef;
+  border-radius: 14px;
+  padding: 1.4rem;
+  box-shadow: 0 6px 18px rgba(13, 27, 42, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-top: 5px solid var(--growth-green);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(13, 27, 42, 0.14);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: var(--deep-navy);
+}
+
+.card p {
+  color: #34495e;
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: var(--growth-green);
+  font-weight: 700;
+}
+
+/* Homepage Hero */
+
+.main-content > p:first-child {
+  margin-top: 0;
+}
+
+.main-content h1:first-of-type {
+  text-align: center;
+  font-size: 2.8rem;
+  border-bottom: none;
+  margin-bottom: 0.5rem;
+}
+
+.main-content h1:first-of-type + h2 {
+  text-align: center;
+  color: var(--growth-green);
+  font-size: 1.45rem;
+  margin-top: 0;
+}
+
+/* Better Buttons */
+
+.btn {
+  display: inline-block;
+  background: linear-gradient(135deg, var(--growth-green), var(--ocean-blue));
+  color: white !important;
+  padding: 13px 22px;
+  border-radius: 999px;
+  font-weight: 700;
+  margin: 8px;
+  box-shadow: 0 5px 14px rgba(46, 125, 50, 0.25);
+}
+
+.btn:hover {
+  background: linear-gradient(135deg, var(--ocean-blue), var(--deep-navy));
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+/* Homepage Quote */
+
+blockquote {
+  font-size: 1.1rem;
+}
