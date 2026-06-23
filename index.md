@@ -1,4 +1,8 @@
-# Financial Literacy Curriculum
+<p align="center">
+  <img src="assets/images/logo.png" alt="Future Ready Finance Logo" width="220">
+</p>
+
+# Future Ready Finance
 
 ## Teaching students the financial consequences of life's biggest decisions before they make them.
 
