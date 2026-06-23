@@ -16,6 +16,12 @@ Students learn through:
 
 ---
 
+## Why This Curriculum?
+
+➡️ [Why This Curriculum Exists](WHY_THIS_CURRICULUM.md)
+
+Learn how this project differs from traditional financial literacy programs by focusing on decision-making, simulations, and long-term consequences.
+
 ## Start Here
 
 ➡️ [Enter Curriculum Hub](curriculum/)
