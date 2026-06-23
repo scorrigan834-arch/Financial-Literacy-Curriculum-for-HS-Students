@@ -1,0 +1,63 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  --deep-navy: #0D1B2A;
+  --ocean-blue: #1B4F72;
+  --growth-green: #2E7D32;
+  --success-green: #81C784;
+  --sunshine: #F4B400;
+  --light-gray: #F5F7FA;
+}
+
+.page-header {
+  background: linear-gradient(135deg, var(--deep-navy), var(--ocean-blue));
+}
+
+.project-name {
+  color: white;
+}
+
+.project-tagline {
+  color: #F5F7FA;
+}
+
+body {
+  color: var(--deep-navy);
+}
+
+a {
+  color: var(--growth-green);
+}
+
+a:hover {
+  color: var(--ocean-blue);
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: var(--deep-navy);
+}
+
+blockquote {
+  border-left: 0.3rem solid var(--growth-green);
+  background-color: var(--light-gray);
+  padding: 1rem;
+}
+
+table th {
+  background-color: var(--deep-navy);
+  color: white;
+}
+
+table td {
+  background-color: #ffffff;
+}
+
+hr {
+  border: 0;
+  border-top: 2px solid var(--success-green);
+}
