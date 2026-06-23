@@ -20,6 +20,10 @@ Students learn through:
 
 ➡️ [Enter Curriculum Hub](curriculum/)
 
+## Curriculum Framework
+
+➡️ [View Curriculum Map](CURRICULUM_MAP.md)
+
 ### Module 1: Money Mindset
 ➡️ [Start Here](curriculum/01-money-mindset/overview.md)
 
