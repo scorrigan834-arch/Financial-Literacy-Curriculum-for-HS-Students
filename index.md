@@ -1,18 +1,16 @@
 # Financial Literacy Curriculum
 
-### Real-world financial decision making for high school students
+## Teaching students the financial consequences of life's biggest decisions before they make them.
+
+Most students graduate high school before they fully understand student loans, credit, budgeting, investing, taxes, housing, and career decisions.
+
+This open-source curriculum helps students practice real-world financial decision-making through lessons, simulations, worksheets, and capstone projects.
 
 ---
 
-## Welcome
+## Start Here
 
-This curriculum helps students understand how money decisions impact their future.
-
-Students learn through:
-- Lessons
-- Simulations
-- Real-world financial scenarios
-- Worksheets
+➡️ [Enter Curriculum Hub](curriculum/)
 
 ---
 
@@ -20,29 +18,25 @@ Students learn through:
 
 ➡️ [Why This Curriculum Exists](WHY_THIS_CURRICULUM.md)
 
-Learn how this project differs from traditional financial literacy programs by focusing on decision-making, simulations, and long-term consequences.
+---
 
 ## For Educators
 
 ➡️ [Educator Guide](FOR_EDUCATORS.md)
 
-Learn how the curriculum is structured and how it can be implemented in classrooms, advisory programs, and financial literacy courses.
+---
 
 ## Signature Experience
 
 ➡️ [Design Your Financial Future](DESIGN_YOUR_FINANCIAL_FUTURE.md)
 
-Students model the long-term consequences of major life decisions involving education, careers, debt, housing, saving, and investing.
+---
 
 ## Why Change Is Needed
 
 ➡️ [The Case for Change](CASE_FOR_CHANGE.md)
 
 Learn why financial decision-making education is needed and how this curriculum addresses the gap.
-
-## Start Here
-
-➡️ [Enter Curriculum Hub](curriculum/)
 
 ## Curriculum Framework
 
