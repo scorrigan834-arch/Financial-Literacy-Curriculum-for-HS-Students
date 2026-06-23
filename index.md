@@ -39,6 +39,12 @@ We are seeking educators, financial professionals, counselors, and industry lead
 
 Interested educators and schools can test lessons, modules, or the full curriculum and help shape future development.
 
+## Project Status
+
+➡️ [View Project Status](PROJECT_STATUS.md)
+
+Track curriculum development, pilot programs, advisory board recruitment, and upcoming priorities.
+
 ## Get Involved
 
 ➡️ [Contributing Guidelines](CONTRIBUTING.md)
