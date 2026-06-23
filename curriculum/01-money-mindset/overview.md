@@ -4,6 +4,12 @@
 
 This module introduces students to how money actually works in real life and how beliefs, habits, and behaviors influence financial outcomes more than income alone.
 
+## Lessons
+
+1. What Is Money?
+2. Income vs. Wealth
+3. Delayed Gratification (Coming Soon)
+
 ---
 
 ## Learning Objectives
