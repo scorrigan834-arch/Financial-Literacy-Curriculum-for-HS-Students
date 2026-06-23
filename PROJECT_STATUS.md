@@ -48,9 +48,9 @@ Status: Complete ✅
 
 ---
 
-## Module 2: Budgeting & Cash Flow
+Module 2: Budgeting & Cash Flow
 
-Status: Not Started
+Status: Complete ✅
 
 ---
 
