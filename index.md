@@ -27,6 +27,12 @@ Students learn through:
 ### Module 1: Money Mindset
 ➡️ [Start Here](curriculum/01-money-mindset/overview.md)
 
+## Advisory Board
+
+➡️ [Learn About the Advisory Board](ADVISORY_BOARD.md)
+
+We are seeking educators, financial professionals, counselors, and industry leaders to help shape the curriculum.
+
 ---
 
 ### College ROI Simulation
