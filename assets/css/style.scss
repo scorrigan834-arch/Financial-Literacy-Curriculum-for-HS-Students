@@ -561,3 +561,29 @@ blockquote {
     var(--growth-green)
   );
 }
+/* Uniform Card Heights */
+
+.card-grid,
+.stage-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.card,
+.stage-card {
+  height: 100%;
+
+  display: flex;
+
+  flex-direction: column;
+}
+
+.card p,
+.stage-card p {
+  flex-grow: 1;
+}
+
+.card a,
+.stage-card a {
+  margin-top: auto;
+}
