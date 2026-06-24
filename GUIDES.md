@@ -68,3 +68,29 @@ Choose a category below.
 * Am I On Track Financially?
 * How Do I Build An Emergency Fund?
 * How Do I Pay Off Debt?
+
+---
+
+## What's Next?
+
+<div class="card-grid">
+
+<div class="card">
+<h3>🧭 Explore Big Decisions</h3>
+<p>See the financial choices that shape long-term outcomes.</p>
+<a href="BIG_DECISIONS.md">Explore</a>
+</div>
+
+<div class="card">
+<h3>🎓 Choose Your Life Stage</h3>
+<p>Find content tailored to where you are today.</p>
+<a href="LIFE_STAGES.md">View Life Stages</a>
+</div>
+
+<div class="card">
+<h3>🔮 Try Simulations</h3>
+<p>Practice decisions before they become real.</p>
+<a href="SIMULATIONS.md">View Simulations</a>
+</div>
+
+</div>
