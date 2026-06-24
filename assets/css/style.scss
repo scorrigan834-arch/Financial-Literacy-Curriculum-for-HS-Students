@@ -382,3 +382,84 @@ blockquote {
 .main-content > p:nth-of-type(2) a:hover {
   color: var(--growth-green);
 }
+/* Homepage Cleanup + Polish */
+
+.main-content {
+  max-width: 1100px;
+}
+
+.main-content h1:first-of-type {
+  text-align: center;
+  font-size: 3rem;
+  border-bottom: none;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.main-content h1:first-of-type + p {
+  background: var(--light-gray);
+  padding: 0.85rem 1rem;
+  border-radius: 999px;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(13, 27, 42, 0.08);
+}
+
+.main-content h1:first-of-type + p a {
+  color: var(--deep-navy);
+  font-weight: 800;
+}
+
+.main-content h1:first-of-type + p a:hover {
+  color: var(--growth-green);
+}
+
+.main-content h2 {
+  margin-top: 2.5rem;
+}
+
+.feature-card {
+  border-radius: 24px;
+  background: linear-gradient(135deg, var(--deep-navy), var(--ocean-blue));
+  box-shadow: 0 18px 45px rgba(13, 27, 42, 0.22);
+}
+
+.feature-card h2 {
+  color: white;
+}
+
+.feature-card p {
+  color: #F5F7FA;
+}
+
+.card,
+.stage-card {
+  border-radius: 18px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover,
+.stage-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 18px 38px rgba(13, 27, 42, 0.16);
+}
+
+.badge {
+  display: inline-block;
+  background: var(--sunshine);
+  color: var(--deep-navy);
+  font-size: 0.65rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.legal-note {
+  font-size: 0.85rem;
+  color: #607080;
+  text-align: center;
+  margin-top: 2rem;
+}
