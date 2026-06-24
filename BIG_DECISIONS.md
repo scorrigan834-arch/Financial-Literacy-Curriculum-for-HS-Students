@@ -1,5 +1,11 @@
 # Big Financial Decisions
 
+## Major decisions often have long-term consequences.
+
+Future Ready Finance helps you think through these decisions before they become expensive mistakes.
+
+...
+
 ## The choices that shape your future.
 
 Most financial outcomes are not created by one single moment.
