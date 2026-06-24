@@ -9,7 +9,8 @@
 <a href="BIG_DECISIONS.md">Big Decisions</a> •
 <a href="SIMULATIONS.md">Simulations</a> •
 <a href="RESOURCES.md">Resources</a> •
-<a href="ABOUT.md">About</a>
+<a href="ABOUT.md">About</a> •
+<a href="OUR_APPROACH.md">Our Approach</a>
 </p>
 
 ## Learn the financial lessons most people discover too late.
