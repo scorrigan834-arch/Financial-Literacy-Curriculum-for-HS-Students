@@ -627,3 +627,28 @@ blockquote {
 
   margin: 4rem 0;
 }
+/* Typography Upgrade */
+
+.main-content h1 {
+  font-size: 3.25rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.main-content h2 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.main-content h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.main-content p {
+  line-height: 1.8;
+}
+
+.main-content {
+  font-size: 1.05rem;
+}
