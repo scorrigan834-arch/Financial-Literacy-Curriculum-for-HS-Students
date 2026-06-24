@@ -304,5 +304,5 @@ Helping people make better financial decisions before the consequences become re
 </p>
 
 <p align="center">
-<em>Educational content only. Not financial, legal, tax, or investment advice.</em>
+<em>Educational content only. Not financial, legal, tax, or investment advice. See <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a>.</em>
 </p>
