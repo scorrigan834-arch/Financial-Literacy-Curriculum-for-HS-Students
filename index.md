@@ -87,6 +87,28 @@ Future Ready Finance helps students, young adults, and early professionals make 
 
 </div>
 
+---
+
+## Why Future Ready Finance Exists
+
+<div class="card-grid">
+
+<div class="card">
+<h3>$1.7T+</h3>
+<p>Outstanding student loan debt in the United States.</p>
+</div>
+
+<div class="card">
+<h3>Millions</h3>
+<p>Young adults making financial decisions without formal financial education.</p>
+</div>
+
+<div class="card">
+<h3>Decades</h3>
+<p>The impact a single financial decision can have on future opportunities.</p>
+</div>
+
+</div>
 
 ## Most Popular Guides
 
