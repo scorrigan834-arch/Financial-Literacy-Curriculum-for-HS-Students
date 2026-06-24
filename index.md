@@ -112,6 +112,25 @@ Future Ready Finance helps students, young adults, and early professionals make 
 
 ## Most Popular Guides
 
+---
+
+<div class="feature-card">
+<h2>Start With The Decisions That Matter Most</h2>
+
+<p>
+Most people don't need more information.
+They need help making better decisions.
+</p>
+
+<p>
+Start with student debt, housing affordability, investing early, and evaluating your career opportunities.
+</p>
+
+<a class="btn" href="BIG_DECISIONS.md">Explore Big Decisions</a>
+<a class="btn" href="GUIDES.md">View All Guides</a>
+
+</div>
+
 <div class="card-grid">
 
 <div class="card">
