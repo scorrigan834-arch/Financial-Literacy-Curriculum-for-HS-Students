@@ -1,5 +1,13 @@
 # Guides
 
+> ⭐ Recommended Starting Guides
+
+1. How Much Student Debt Is Too Much?
+2. Can I Afford This Apartment?
+3. Should I Start Investing Now?
+4. How Do I Evaluate a Job Offer?
+5. Am I On Track Financially?
+
 ## Practical financial guidance organized around real decisions.
 
 Future Ready Finance helps you understand the consequences of financial decisions before they become real.
