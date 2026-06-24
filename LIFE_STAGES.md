@@ -1,10 +1,23 @@
 # Learn By Life Stage
 
-## The right financial lessons at the right time.
+## Financial priorities change throughout life.
 
-Future Ready Finance helps you build financial confidence based on where you are in life — not through random lessons, but through the financial decisions you are most likely facing next.
+Future Ready Finance is organized around the major stages where people face different financial decisions.
 
-Choose the stage that best reflects your current journey.
+Choose the stage that best reflects where you are today.
+
+---
+
+<div class="feature-card">
+
+<h2>Start Where You Are</h2>
+
+<p>
+There is no perfect path.
+The goal is to make better decisions based on your current stage of life.
+</p>
+
+</div>
 
 ---
 
@@ -33,7 +46,7 @@ Choose the stage that best reflects your current journey.
 
 <div class="stage-card establishing">
 <h2>🏡 Establishing</h2>
-<p class="stage-age">Building a Life, Family & Long-Term Wealth</p>
+<p class="stage-age">Building Life & Wealth</p>
 <p>For people earning more, recovering from financial mistakes, considering homeownership, building a family, and asking what comes next.</p>
 <a class="stage-button" href="paths/establishing.md">Start Establishing Path</a>
 </div>
@@ -81,5 +94,3 @@ Choose the stage that best reflects your current journey.
 <p class="legal-note">
 Educational content only. Not financial, legal, tax, or investment advice. See <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a>.
 </p>
-
-
