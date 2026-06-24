@@ -37,7 +37,7 @@ Future Ready Finance helps you understand those decisions before the consequence
 <div class="card">
 <h3>Is graduate school worth it?</h3>
 <p>Compare cost, career upside, debt, and opportunity cost.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 </div>
@@ -51,19 +51,19 @@ Future Ready Finance helps you understand those decisions before the consequence
 <div class="card">
 <h3>How do I evaluate a job offer?</h3>
 <p>Look beyond salary and understand benefits, taxes, commute, growth, and stability.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>Should I ask for a raise?</h3>
 <p>Understand timing, preparation, value creation, and negotiation.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>Should I change jobs?</h3>
 <p>Compare compensation, growth, risk, and long-term career trajectory.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 </div>
@@ -77,19 +77,19 @@ Future Ready Finance helps you understand those decisions before the consequence
 <div class="card">
 <h3>Can I afford this apartment?</h3>
 <p>Evaluate rent, utilities, deposits, transportation, and cash flow.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>Should I rent or buy?</h3>
 <p>Compare flexibility, cost, responsibility, mortgage payments, and opportunity cost.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>How much house can I afford?</h3>
 <p>Understand mortgage payments, taxes, insurance, maintenance, and lifestyle tradeoffs.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 </div>
@@ -103,19 +103,19 @@ Future Ready Finance helps you understand those decisions before the consequence
 <div class="card">
 <h3>Should I buy a car?</h3>
 <p>Compare vehicle cost, insurance, maintenance, loan payments, and alternatives.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>New car or used car?</h3>
 <p>Understand depreciation, monthly payments, repair risk, and long-term cost.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>Should I lease or buy?</h3>
 <p>Compare monthly cost, ownership, mileage limits, and flexibility.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 </div>
@@ -129,19 +129,19 @@ Future Ready Finance helps you understand those decisions before the consequence
 <div class="card">
 <h3>Should I use a credit card?</h3>
 <p>Learn how to build credit responsibly while avoiding high-interest debt.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>How do I pay down debt?</h3>
 <p>Compare repayment strategies and understand how interest affects progress.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>Should I refinance?</h3>
 <p>Evaluate interest rates, fees, monthly payments, and total cost.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 </div>
@@ -155,19 +155,19 @@ Future Ready Finance helps you understand those decisions before the consequence
 <div class="card">
 <h3>When should I start investing?</h3>
 <p>Understand time, compounding, risk, and the cost of waiting.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>How much should I invest?</h3>
 <p>Balance investing with debt, emergency savings, and short-term goals.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>What account should I use?</h3>
 <p>Compare workplace retirement accounts, Roth IRAs, traditional IRAs, and taxable accounts.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 </div>
@@ -181,19 +181,19 @@ Future Ready Finance helps you understand those decisions before the consequence
 <div class="card">
 <h3>How should couples manage money?</h3>
 <p>Explore shared goals, separate accounts, joint accounts, budgeting, and communication.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>What changes financially when children arrive?</h3>
 <p>Understand childcare, insurance, savings, housing, and long-term planning.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 <div class="card">
 <h3>Am I on track financially?</h3>
 <p>Review net worth, savings rate, debt, investing, and future goals.</p>
-<a href="#">Coming Soon</a>
+<span class="coming-soon">Coming Soon</span>
 </div>
 
 </div>
