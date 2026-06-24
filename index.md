@@ -164,6 +164,29 @@ Future Ready Finance teaches decision-making.
 
 </div>
 
+---
+
+# Why This Matters
+
+<div class="card-grid">
+
+<div class="card">
+<h3>$1.7T+</h3>
+<p>Outstanding student loan debt in the United States.</p>
+</div>
+
+<div class="card">
+<h3>Millions</h3>
+<p>Of young adults making financial decisions without formal education.</p>
+</div>
+
+<div class="card">
+<h3>Decades</h3>
+<p>The impact one major financial decision can have on future opportunities.</p>
+</div>
+
+</div>
+
 ## Most Popular Guides
 
 <div class="card-grid">
