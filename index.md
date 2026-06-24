@@ -11,16 +11,18 @@
   <a href="RESOURCES.md">Resources</a>
 </p>
 
-## Learn the financial lessons most people discover too late.
+## ## Learn the financial lessons most people discover too late.
 
 Future Ready Finance helps students, young adults, and early professionals make better financial decisions before the consequences become real.
 
-<p align="center">
-  <a class="btn" href="LIFE_STAGES.md">Choose Your Path</a>
-  <a class="btn" href="BIG_DECISIONS.md">Explore Big Decisions</a>
-  <a class="btn" href="START_HERE.md">Start Here</a>
-</p>
+<div class="feature-card">
+<h2>Build confidence before the big decisions.</h2>
+<p>Choose your life stage, explore real-world money decisions, and use practical tools to understand the consequences before they become expensive.</p>
 
+<a class="btn" href="START_HERE.md">Get Started</a>
+<a class="btn" href="LIFE_STAGES.md">Choose Your Stage</a>
+<a class="btn" href="BIG_DECISIONS.md">Explore Decisions</a>
+</div>
 ---
 
 <div class="feature-card">
