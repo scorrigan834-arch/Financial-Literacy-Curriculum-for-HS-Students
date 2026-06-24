@@ -11,7 +11,7 @@
   <a href="RESOURCES.md">Resources</a>
 </p>
 
-## ## Learn the financial lessons most people discover too late.
+## Learn the financial lessons most people discover too late.
 
 Future Ready Finance helps students, young adults, and early professionals make better financial decisions before the consequences become real.
 
