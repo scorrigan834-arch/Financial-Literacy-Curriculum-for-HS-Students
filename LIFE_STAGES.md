@@ -14,7 +14,7 @@ Choose your stage and start with the decisions that matter most right now.
 <h2>High School</h2>
 <p class="stage-age">Ages 14–18</p>
 <p>Prepare for first jobs, college decisions, trade school, student loans, budgeting basics, and financial independence.</p>
-<a class="stage-button" href="#">Start High School Path</a>
+<a class="stage-button" href="paths/high-school.md">Start High School Path</a>
 </div>
 
 <div class="stage-card college">
