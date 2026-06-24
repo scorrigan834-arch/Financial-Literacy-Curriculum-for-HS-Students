@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="START_HERE.md">Start Here</a> •
-  <a href="LIFE_STAGES.md">Life Stages</a> •
-  <a href="GUIDES.md">Guides</a> •
-  <a href="BIG_DECISIONS.md">Big Decisions</a> •
-  <a href="SIMULATIONS.md">Simulations</a> •
-  <a href="RESOURCES.md">Resources</a>
+<a href="START_HERE.md">Start Here</a> •
+<a href="LIFE_STAGES.md">Life Stages</a> •
+<a href="GUIDES.md">Guides</a> •
+<a href="BIG_DECISIONS.md">Big Decisions</a> •
+<a href="SIMULATIONS.md">Simulations</a> •
+<a href="RESOURCES.md">Resources</a> •
+<a href="ABOUT.md">About</a>
 </p>
 
 ## Learn the financial lessons most people discover too late.
