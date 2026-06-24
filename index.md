@@ -187,7 +187,26 @@ Future Ready Finance helps students, young adults, and early professionals make 
 </div>
 
 ---
+---
 
-<p class="legal-note">
-Educational content only. Not financial, legal, tax, or investment advice. See <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a>.
+<hr>
+
+<p align="center">
+<strong>Future Ready Finance</strong>
+</p>
+
+<p align="center">
+Helping people make better financial decisions before the consequences become real.
+</p>
+
+<p align="center">
+<a href="START_HERE.md">Start Here</a> •
+<a href="LIFE_STAGES.md">Life Stages</a> •
+<a href="GUIDES.md">Guides</a> •
+<a href="SIMULATIONS.md">Simulations</a> •
+<a href="RESOURCES.md">Resources</a>
+</p>
+
+<p align="center">
+<em>Educational content only. Not financial, legal, tax, or investment advice.</em>
 </p>
