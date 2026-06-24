@@ -42,6 +42,21 @@ Future Ready Finance is built for:
 
 ---
 
+⸻
+
+Who This Is For
+
+Future Ready Finance is designed for:
+
+* High school students
+* College students
+* Young professionals
+* People building financial confidence
+
+Whether you’re choosing a college, evaluating a job offer, renting your first apartment, or planning for a home, the goal is the same:
+
+Make better financial decisions before the consequences become real.
+
 <p class="legal-note">
 Educational content only. Not financial, legal, tax, or investment advice. See <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a>.
 </p>
