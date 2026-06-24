@@ -136,6 +136,27 @@ Future Ready Finance helps students, young adults, and early professionals make 
 <p>The impact a single financial decision can have on future opportunities.</p>
 </div>
 
+---
+
+## What You'll Find Here
+
+<div class="card-grid">
+
+<div class="card">
+<h3>📚 Practical Guides</h3>
+<p>Real-world financial topics explained in plain language.</p>
+</div>
+
+<div class="card">
+<h3>🧭 Decision Frameworks</h3>
+<p>Learn how to think through major financial choices.</p>
+</div>
+
+<div class="card">
+<h3>🔮 Simulations</h3>
+<p>Explore possible outcomes before making important decisions.</p>
+</div>
+
 </div>
 
 ## Most Popular Guides
