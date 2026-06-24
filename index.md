@@ -127,6 +127,39 @@ Future Ready Finance helps students, young adults, and early professionals make 
 <a class="btn" href="WHY_THIS_CURRICULUM.md">Why This Matters</a>
 </div>
 
+
+---
+
+# Explore By Topic
+
+<div class="card-grid">
+
+<div class="card">
+<h3>🎓 Education</h3>
+<p>College decisions, student loans, ROI, scholarships, and alternative education paths.</p>
+<a href="BIG_DECISIONS.md">Explore</a>
+</div>
+
+<div class="card">
+<h3>💼 Career</h3>
+<p>Job offers, salary growth, benefits, promotions, and career planning.</p>
+<a href="GUIDES.md">Explore</a>
+</div>
+
+<div class="card">
+<h3>🏠 Housing</h3>
+<p>Apartment affordability, renting, homeownership, and housing decisions.</p>
+<a href="GUIDES.md">Explore</a>
+</div>
+
+<div class="card">
+<h3>📈 Investing</h3>
+<p>Building wealth, retirement accounts, investing basics, and long-term growth.</p>
+<a href="GUIDES.md">Explore</a>
+</div>
+
+</div>
+
 ---
 
 ## Explore More
