@@ -52,6 +52,34 @@ Choose the stage that best reflects your current journey.
 
 ---
 
+## Continue Learning
+
+<div class="card-grid">
+
+<div class="card">
+<h3>🧭 Explore Big Decisions</h3>
+<p>Review the major financial choices that shape your future.</p>
+<a href="BIG_DECISIONS.md">Explore Decisions</a>
+</div>
+
+<div class="card">
+<h3>📚 View Guides</h3>
+<p>Read practical guides organized around real-life financial questions.</p>
+<a href="GUIDES.md">View Guides</a>
+</div>
+
+<div class="card">
+<h3>🔮 Try Simulations</h3>
+<p>Practice financial decisions before they become real.</p>
+<a href="SIMULATIONS.md">View Simulations</a>
+</div>
+
+</div>
+
+---
+
 <p class="legal-note">
 Educational content only. Not financial, legal, tax, or investment advice. See <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a>.
 </p>
+
+
