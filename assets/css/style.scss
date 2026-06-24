@@ -611,3 +611,19 @@ blockquote {
   }
 
 }
+/* Premium Section Dividers */
+
+.main-content hr {
+  border: none;
+  height: 2px;
+
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--ocean-blue),
+    var(--growth-green),
+    transparent
+  );
+
+  margin: 4rem 0;
+}
