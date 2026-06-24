@@ -1,49 +1,51 @@
 # Resources
 
-## Free tools, templates, and frameworks.
+Resources
+
+Your Future Ready Toolbox
 
 Everything here is designed to help you make better financial decisions.
 
----
+⸻
 
-## Frameworks
+🧭 Start Here
 
-* Future Ready Decision Framework
-* Future Ready Principles
-
----
-
-## Assessments
-
+* Start Here
+* Life Stages
 * Future Ready Scorecard
 
----
+⸻
 
-## Simulations
+📚 Learn
 
+* Guides
+* Big Decisions
+* Our Approach
+
+⸻
+
+🔮 Practice
+
+* Simulations
 * Design Your Financial Future
-* College ROI Simulator
-* Future Wealth Simulator
 
----
+⸻
 
-## Guides
+📊 Assess
 
-* Student Debt
-* Apartment Affordability
-* Investing Early
-* Job Offer Evaluation
+* Future Ready Scorecard
+* Financial Progress Guides
 
----
+⸻
 
-## Coming Soon
+Coming Soon
 
-* Budget Template
+* Budget Builder
 * Net Worth Tracker
-* Student Loan Calculator
+* Student Loan Planner
 * Rent vs Buy Calculator
 * Emergency Fund Planner
 
----
+⸻
 
-> Knowledge is useful. Action creates results.
+Knowledge is useful. Action creates results.
