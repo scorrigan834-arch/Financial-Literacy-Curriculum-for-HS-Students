@@ -68,6 +68,33 @@ Future Ready Finance helps students, young adults, and early professionals make 
 
 ---
 
+---
+
+# Why Future Ready Finance?
+
+Most financial education teaches definitions.
+
+Future Ready Finance teaches decision-making.
+
+<div class="card-grid">
+
+<div class="card">
+<h3>🧠 Learn Through Decisions</h3>
+<p>Understand the consequences of major life choices before making them.</p>
+</div>
+
+<div class="card">
+<h3>🔮 Learn Through Simulations</h3>
+<p>Explore possible outcomes in a risk-free environment.</p>
+</div>
+
+<div class="card">
+<h3>🚀 Learn Through Life Stages</h3>
+<p>Get guidance tailored to where you are today, not where someone else thinks you should be.</p>
+</div>
+
+</div>
+
 ## Most Popular Guides
 
 <div class="card-grid">
