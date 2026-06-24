@@ -1,80 +1,35 @@
-# Roadmap
+# Your Future Ready Roadmap
 
-This roadmap outlines the development phases for the Financial Literacy Curriculum.
+## Stage 1: Learn
 
----
-
-## Phase 1: Foundation (Current)
-
-Goal: Define structure and learning framework
-
-- Finalize vision and mission
-- Build curriculum structure (modules)
-- Define learning outcomes for each unit
-- Create advisory board (educators + financial professionals)
-- Establish contribution guidelines
+Understand the basics of money, debt, investing, and financial decision-making.
 
 ---
 
-## Phase 2: Core Curriculum Development
+## Stage 2: Evaluate
 
-Goal: Build foundational student learning content
-
-### Modules:
-- Money Mindset
-- Budgeting & Cash Flow
-- Banking Basics
-- Credit & Credit Scores
-- Student Loans & College Financing
-- Investing Fundamentals
-
-Each module will include:
-- Lesson plans
-- Student activities
-- Real-world simulations
-- Assessments
+Use frameworks and decision guides to evaluate your options.
 
 ---
 
-## Phase 3: Applied Learning Tools
+## Stage 3: Simulate
 
-Goal: Move beyond theory into decision-making
-
-- Student loan repayment simulator
-- Budgeting life simulation tool
-- Career ROI calculator
-- College cost comparison tool
-- Investing simulation activity
+Test financial decisions before they become real.
 
 ---
 
-## Phase 4: Educator Support Materials
+## Stage 4: Act
 
-Goal: Make adoption easy for schools
-
-- Teacher guides for each module
-- Slide decks for classroom instruction
-- Answer keys and rubrics
-- Lesson pacing guides (1-semester / 1-year versions)
+Apply what you've learned to real-world situations.
 
 ---
 
-## Phase 5: Pilot Programs
+## Stage 5: Review
 
-Goal: Test in real classrooms
-
-- Partner with schools and districts
-- Gather teacher feedback
-- Measure student learning outcomes
-- Refine curriculum based on results
+Continue learning and adjusting as your life changes.
 
 ---
 
-## Phase 6: Scale & Expansion
+Financial success is not a destination.
 
-Goal: Make it widely accessible
-
-- Public website (GitHub Pages)
-- Open contribution model
-- National educator partnerships
-- Continuous curriculum updates
+It is a process of continuously making better decisions.
