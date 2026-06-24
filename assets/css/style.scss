@@ -364,3 +364,21 @@ blockquote {
   text-align: center;
   margin-top: 2rem;
 }
+/* Top Navigation */
+
+.main-content > p:nth-of-type(2) {
+  background: var(--light-gray);
+  padding: 0.9rem 1rem;
+  border-radius: 999px;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(13, 27, 42, 0.08);
+}
+
+.main-content > p:nth-of-type(2) a {
+  color: var(--deep-navy);
+  font-weight: 800;
+}
+
+.main-content > p:nth-of-type(2) a:hover {
+  color: var(--growth-green);
+}
