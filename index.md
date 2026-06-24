@@ -64,6 +64,29 @@ Future Ready Finance helps students, young adults, and early professionals make 
 </div>
 
 ---
+---
+
+## Why Future Ready Finance?
+
+<div class="card-grid">
+
+<div class="card">
+<h3>🎯 Decision Focused</h3>
+<p>Learn through real financial decisions instead of memorizing definitions.</p>
+</div>
+
+<div class="card">
+<h3>🚀 Life Stage Based</h3>
+<p>Content designed around where you are today and where you are going next.</p>
+</div>
+
+<div class="card">
+<h3>📈 Built For The Future</h3>
+<p>Helping people make better decisions before the consequences become real.</p>
+</div>
+
+</div>
+
 
 ## Most Popular Guides
 
