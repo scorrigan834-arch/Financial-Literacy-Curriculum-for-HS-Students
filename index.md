@@ -2,15 +2,16 @@
   <img src="./assets/images/logo.png" alt="Future Ready Finance Logo" width="260">
 </p>
 
+# Future Ready Finance
+
 <p align="center">
-<a href="START_HERE.md">Start Here</a> •
-<a href="LIFE_STAGES.md">Life Stages</a> •
-<a href="GUIDES.md">Guides</a> •
-<a href="BIG_DECISIONS.md">Big Decisions</a> •
-<a href="SIMULATIONS.md">Simulations</a> •
-<a href="RESOURCES.md">Resources</a> •
-<a href="ABOUT.md">About</a> •
-<a href="OUR_APPROACH.md">Our Approach</a>
+  <a href="START_HERE.md">Start Here</a> •
+  <a href="LIFE_STAGES.md">Life Stages</a> •
+  <a href="GUIDES.md">Guides</a> •
+  <a href="BIG_DECISIONS.md">Big Decisions</a> •
+  <a href="SIMULATIONS.md">Simulations</a> •
+  <a href="RESOURCES.md">Resources</a> •
+  <a href="ABOUT.md">About</a>
 </p>
 
 ## Learn the financial lessons most people discover too late.
@@ -19,85 +20,11 @@ Future Ready Finance helps students, young adults, and early professionals make 
 
 <div class="feature-card">
 <h2>Build confidence before the big decisions.</h2>
-<div class="card-grid">
-
-<div class="card">
-<h3>4</h3>
-<p>Life Stages</p>
-</div>
-
-<div class="card">
-<h3>20+</h3>
-<p>Financial Decisions</p>
-</div>
-
-<div class="card">
-<h3>10+</h3>
-<p>Guides & Frameworks</p>
-</div>
-
-<div class="card">
-<h3>Growing</h3>
-<p>Simulations & Tools</p>
-</div>
-
-</div>
-
----  
 <p>Choose your life stage, explore real-world money decisions, and use practical tools to understand the consequences before they become expensive.</p>
 
 <a class="btn" href="START_HERE.md">Get Started</a>
 <a class="btn" href="LIFE_STAGES.md">Choose Your Stage</a>
 <a class="btn" href="BIG_DECISIONS.md">Explore Decisions</a>
-</div>
----
-
-<div class="feature-card">
-<h2>Your Money Journey Starts Here</h2>
-<p>Choose the stage that best reflects where you are today, then explore the decisions, mistakes, tools, and simulations that matter most right now.</p>
-</div>
-<div class="feature-card">
-<h2>Build confidence before the big decisions.</h2>
-<p>Choose your life stage, explore real-world money decisions, and use practical tools to understand the consequences before they become expensive.</p>
-
-<a class="btn" href="START_HERE.md">Get Started</a>
-<a class="btn" href="LIFE_STAGES.md">Choose Your Stage</a>
-<a class="btn" href="BIG_DECISIONS.md">Explore Decisions</a>
-</div>
-
----
-<div class="card-grid">
-
-<div class="card">
-<h3>4</h3>
-<p>Life Stages</p>
-</div>
-
-<div class="card">
-<h3>20+</h3>
-<p>Financial Decisions</p>
-</div>
-
-<div class="card">
-<h3>10+</h3>
-<p>Guides & Frameworks</p>
-</div>
-
-<div class="card">
-<h3>Growing</h3>
-<p>Simulations & Tools</p>
-</div>
-
-</div>
-
----
----
-
-<div class="feature-card">
-<h2>Not Sure Where You Fit?</h2>
-<p>Start with the stage that sounds most like your current financial life. You can always move between paths as your goals change.</p>
-
-<a class="btn" href="LIFE_STAGES.md">Compare Life Stages</a>
 </div>
 
 ---
@@ -137,174 +64,27 @@ Future Ready Finance helps students, young adults, and early professionals make 
 </div>
 
 ---
----
-
-# Recommended Starting Points
-
-Not everyone knows where to begin.
-
-Start with one of the most common financial journeys below.
-
-<div class="card-grid">
-
-<div class="card">
-<h3>🎓 Future College Student</h3>
-<p>Learn about education decisions, student loans, and long-term ROI.</p>
-<a href="paths/high-school.md">Start Here</a>
-</div>
-
-<div class="card">
-<h3>💼 First Full-Time Job</h3>
-<p>Understand benefits, investing, salary growth, and lifestyle inflation.</p>
-<a href="paths/early-career.md">Start Here</a>
-</div>
-
-<div class="card">
-<h3>🏡 Planning For A Home</h3>
-<p>Explore housing affordability, debt, savings, and wealth-building decisions.</p>
-<a href="paths/establishing.md">Start Here</a>
-</div>
-
-</div>
-
----
-
-# Why Future Ready Finance?
-
-Most financial education teaches definitions.
-
-Future Ready Finance teaches decision-making.
-
-<div class="card-grid">
-
-<div class="card">
-<h3>🧠 Learn Through Decisions</h3>
-<p>Understand the consequences of major life choices before making them.</p>
-</div>
-
-<div class="card">
-<h3>🔮 Learn Through Simulations</h3>
-<p>Explore possible outcomes in a risk-free environment.</p>
-</div>
-
-<div class="card">
-<h3>🚀 Learn Through Life Stages</h3>
-<p>Get guidance tailored to where you are today, not where someone else thinks you should be.</p>
-</div>
-
-</div>
-
----
-
-# Why This Matters
-
-<div class="card-grid">
-
-<div class="card">
-<h3>$1.7T+</h3>
-<p>Outstanding student loan debt in the United States.</p>
-</div>
-
-<div class="card">
-<h3>Millions</h3>
-<p>Of young adults making financial decisions without formal education.</p>
-</div>
-
-<div class="card">
-<h3>Decades</h3>
-<p>The impact one major financial decision can have on future opportunities.</p>
-</div>
-
-</div>
 
 ## Most Popular Guides
 
 <div class="card-grid">
 
 <div class="card">
-<h3>🎓 Student Debt</h3>
+<h3><span class="badge">Featured</span> 🎓 Student Debt</h3>
 <p>Understand how borrowing decisions affect future flexibility.</p>
 <a href="decisions/how-much-student-debt-is-too-much.md">Read Guide</a>
 </div>
 
 <div class="card">
-<h3>🏠 Apartment Affordability</h3>
+<h3><span class="badge">Featured</span> 🏠 Apartment Affordability</h3>
 <p>Evaluate the full cost of living independently.</p>
 <a href="decisions/can-i-afford-this-apartment.md">Read Guide</a>
 </div>
 
 <div class="card">
-<h3>📈 Investing Early</h3>
+<h3><span class="badge">Featured</span> 📈 Investing Early</h3>
 <p>See why time may be your most powerful wealth-building advantage.</p>
 <a href="decisions/should-i-start-investing-now.md">Read Guide</a>
-</div>
-
-</div>
-
----
-
-## Featured Simulations
-
-<div class="card-grid">
-
-<div class="card">
-<h3>🔮 Design Your Financial Future</h3>
-<p>Model the long-term impact of education, career, housing, debt, saving, investing, and family decisions.</p>
-<a href="DESIGN_YOUR_FINANCIAL_FUTURE.md">Start Simulation</a>
-</div>
-
-<div class="card">
-<h3>🎓 College ROI Simulator</h3>
-<p>Compare education costs, debt, income, and long-term outcomes.</p>
-<a href="curriculum/05-student-loans/simulation-college-roi.md">Try Simulation</a>
-</div>
-
-<div class="card">
-<h3>🏡 Future Ready Scorecard</h3>
-<p>Assess where you are today and identify what to improve next.</p>
-<a href="SCORECARD.md">Take Scorecard</a>
-</div>
-
-</div>
-
----
-
-<div class="feature-card">
-<h2>The Future Ready Difference</h2>
-<p>Most financial education teaches definitions. Future Ready Finance teaches decision-making.</p>
-<p>Because the goal is not just to understand money — it is to make better choices before those choices become expensive.</p>
-<a class="btn" href="WHY_THIS_CURRICULUM.md">Why This Matters</a>
-</div>
-
-
----
-
-# Explore By Topic
-
-<div class="card-grid">
-
-<div class="card">
-<h3>🎓 Education</h3>
-<p>College decisions, student loans, ROI, scholarships, and alternative education paths.</p>
-<a href="BIG_DECISIONS.md">Explore</a>
-</div>
-
-<div class="card">
-<h3>💼 Career</h3>
-<p>Job offers, salary growth, benefits, promotions, and career planning.</p>
-<a href="GUIDES.md">Explore</a>
-</div>
-
-<div class="card">
-<h3>🏠 Housing</h3>
-<p>Apartment affordability, renting, homeownership, and housing decisions.</p>
-<a href="GUIDES.md">Explore</a>
-</div>
-
-<div class="card">
-<h3>📈 Investing</h3>
-<p>Building wealth, retirement accounts, investing basics, and long-term growth.</p>
-<a href="GUIDES.md">Explore</a>
 </div>
 
 </div>
@@ -328,17 +108,24 @@ Future Ready Finance teaches decision-making.
 </div>
 
 <div class="card">
-<h3>🧠 Principles</h3>
-<p>Learn the Future Ready principles behind smarter financial decisions.</p>
-<a href="PRINCIPLES.md">View Principles</a>
+<h3>🔮 Simulations</h3>
+<p>Practice decisions before they become real.</p>
+<a href="SIMULATIONS.md">View Simulations</a>
 </div>
 
 </div>
 
 ---
----
 
-<hr>
+<div class="feature-card">
+<h2>Ready to become Future Ready?</h2>
+<p>Start with your life stage, explore the decisions ahead of you, and learn the financial lessons most people discover too late.</p>
+
+<a class="btn" href="START_HERE.md">Start Here</a>
+<a class="btn" href="LIFE_STAGES.md">Choose Your Path</a>
+</div>
+
+---
 
 <p align="center">
 <strong>Future Ready Finance</strong>
@@ -353,9 +140,10 @@ Helping people make better financial decisions before the consequences become re
 <a href="LIFE_STAGES.md">Life Stages</a> •
 <a href="GUIDES.md">Guides</a> •
 <a href="SIMULATIONS.md">Simulations</a> •
-<a href="RESOURCES.md">Resources</a>
+<a href="RESOURCES.md">Resources</a> •
+<a href="ABOUT.md">About</a>
 </p>
 
-<p align="center">
-<em>Educational content only. Not financial, legal, tax, or investment advice. See <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a>.</em>
+<p class="legal-note">
+Educational content only. Not financial, legal, tax, or investment advice. See <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a>.
 </p>
