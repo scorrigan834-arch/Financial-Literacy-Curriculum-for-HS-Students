@@ -137,6 +137,35 @@ Future Ready Finance helps students, young adults, and early professionals make 
 </div>
 
 ---
+---
+
+# Recommended Starting Points
+
+Not everyone knows where to begin.
+
+Start with one of the most common financial journeys below.
+
+<div class="card-grid">
+
+<div class="card">
+<h3>🎓 Future College Student</h3>
+<p>Learn about education decisions, student loans, and long-term ROI.</p>
+<a href="paths/high-school.md">Start Here</a>
+</div>
+
+<div class="card">
+<h3>💼 First Full-Time Job</h3>
+<p>Understand benefits, investing, salary growth, and lifestyle inflation.</p>
+<a href="paths/early-career.md">Start Here</a>
+</div>
+
+<div class="card">
+<h3>🏡 Planning For A Home</h3>
+<p>Explore housing affordability, debt, savings, and wealth-building decisions.</p>
+<a href="paths/establishing.md">Start Here</a>
+</div>
+
+</div>
 
 ---
 
