@@ -54,7 +54,41 @@ Future Ready Finance helps students, young adults, and early professionals make 
 <h2>Your Money Journey Starts Here</h2>
 <p>Choose the stage that best reflects where you are today, then explore the decisions, mistakes, tools, and simulations that matter most right now.</p>
 </div>
+<div class="feature-card">
+<h2>Build confidence before the big decisions.</h2>
+<p>Choose your life stage, explore real-world money decisions, and use practical tools to understand the consequences before they become expensive.</p>
 
+<a class="btn" href="START_HERE.md">Get Started</a>
+<a class="btn" href="LIFE_STAGES.md">Choose Your Stage</a>
+<a class="btn" href="BIG_DECISIONS.md">Explore Decisions</a>
+</div>
+
+---
+<div class="card-grid">
+
+<div class="card">
+<h3>4</h3>
+<p>Life Stages</p>
+</div>
+
+<div class="card">
+<h3>20+</h3>
+<p>Financial Decisions</p>
+</div>
+
+<div class="card">
+<h3>10+</h3>
+<p>Guides & Frameworks</p>
+</div>
+
+<div class="card">
+<h3>Growing</h3>
+<p>Simulations & Tools</p>
+</div>
+
+</div>
+
+---
 ---
 
 ## Choose Your Life Stage
