@@ -324,3 +324,43 @@ blockquote {
 .feature-card p {
   color: #F5F7FA;
 }
+/* Premium Design Polish */
+
+.main-content {
+  max-width: 1100px;
+}
+
+.feature-card {
+  border-radius: 24px;
+  background: linear-gradient(135deg, var(--deep-navy), var(--ocean-blue));
+  box-shadow: 0 18px 45px rgba(13, 27, 42, 0.22);
+}
+
+.card,
+.stage-card {
+  border-radius: 18px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover,
+.stage-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 18px 38px rgba(13, 27, 42, 0.16);
+}
+
+.card h3 {
+  font-size: 1.25rem;
+}
+
+.btn {
+  font-size: 1rem;
+  letter-spacing: 0.3px;
+  font-weight: 800;
+}
+
+.legal-note {
+  font-size: 0.85rem;
+  color: #607080;
+  text-align: center;
+  margin-top: 2rem;
+}
