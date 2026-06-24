@@ -191,6 +191,24 @@ Start with student debt, housing affordability, investing early, and evaluating 
 
 ---
 
+---
+
+# Your Future Starts With Today's Decisions
+
+<div class="feature-card">
+
+<h2>Ready to become Future Ready?</h2>
+
+<p>
+Explore your life stage, evaluate important financial decisions, and build confidence before the consequences become real.
+</p>
+
+<a class="btn" href="START_HERE.md">Start Here</a>
+
+<a class="btn" href="LIFE_STAGES.md">Choose Your Path</a>
+
+</div>
+
 <p align="center">
 <strong>Future Ready Finance</strong>
 </p>
