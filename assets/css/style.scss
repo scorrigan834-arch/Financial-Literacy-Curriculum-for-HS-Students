@@ -147,18 +147,32 @@ width: 220px;
 /* Buttons (future use) */
 
 .btn {
-display: inline-block;
-background-color: var(--growth-green);
-color: white !important;
-padding: 12px 20px;
-border-radius: 8px;
-font-weight: 600;
-margin: 5px;
+  display: inline-block;
+  padding: 12px 22px;
+  border-radius: 999px;
+
+  background: linear-gradient(
+    135deg,
+    var(--ocean-blue),
+    var(--growth-green)
+  );
+
+  color: white !important;
+
+  font-weight: 800;
+
+  text-decoration: none;
+
+  transition: all 0.25s ease;
+
+  box-shadow: 0 10px 25px rgba(13, 27, 42, 0.15);
 }
 
 .btn:hover {
-background-color: var(--ocean-blue);
-text-decoration: none;
+  transform: translateY(-3px);
+
+  box-shadow: 0 16px 30px rgba(13, 27, 42, 0.25);
+}
 }
 
 /* Homepage Card Layout */
