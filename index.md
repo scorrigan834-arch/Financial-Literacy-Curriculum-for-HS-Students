@@ -4,47 +4,49 @@
 
 # Future Ready Finance
 
-## Teaching students the financial consequences of life's biggest decisions before they make them.
+## Learn the financial lessons most people discover too late.
 
-Most students graduate before they fully understand student loans, credit, budgeting, investing, taxes, housing, and career decisions.
-
-This open-source curriculum helps students practice real-world financial decision-making through lessons, simulations, worksheets, and capstone projects.
+Future Ready Finance helps high school students, college students, and young adults make smarter decisions about money, debt, careers, housing, investing, and wealth building.
 
 <p align="center">
-  <a class="btn" href="curriculum/">Start Learning</a>
-  <a class="btn" href="FOR_EDUCATORS.md">For Educators</a>
-  <a class="btn" href="DESIGN_YOUR_FINANCIAL_FUTURE.md">Capstone Project</a>
+  <a class="btn" href="LIFE_STAGES.md">Choose Your Path</a>
+  <a class="btn" href="DESIGN_YOUR_FINANCIAL_FUTURE.md">Design Your Future</a>
+  <a class="btn" href="WHY_THIS_CURRICULUM.md">Why It Matters</a>
 </p>
 
 ---
 
-## Explore the Curriculum
+## Choose Your Learning Path
 
 <div class="card-grid">
 
 <div class="card">
-<h3>🎓 Curriculum Hub</h3>
-<p>Explore modules, lessons, simulations, worksheets, and teacher guides.</p>
-<a href="curriculum/">Enter Curriculum Hub</a>
+<h3>High School</h3>
+<p>Prepare for college, trade school, first jobs, student loans, budgeting, and financial independence.</p>
+<a href="LIFE_STAGES.md">Start Here</a>
 </div>
 
 <div class="card">
-<h3>👩‍🏫 For Educators</h3>
-<p>Learn how teachers, counselors, and schools can use the curriculum.</p>
-<a href="FOR_EDUCATORS.md">View Educator Guide</a>
+<h3>College</h3>
+<p>Navigate student loans, credit cards, internships, apartment living, budgeting, and building credit.</p>
+<a href="LIFE_STAGES.md">Start Here</a>
 </div>
 
 <div class="card">
-<h3>🔮 Signature Experience</h3>
-<p>Students model their future through education, career, debt, housing, saving, and investing decisions.</p>
-<a href="DESIGN_YOUR_FINANCIAL_FUTURE.md">Design Your Financial Future</a>
+<h3>Early Career</h3>
+<p>Build savings, invest early, understand benefits, manage income, and avoid lifestyle inflation.</p>
+<a href="LIFE_STAGES.md">Start Here</a>
 </div>
 
-<div class="card">
-<h3>🧭 Why This Curriculum?</h3>
-<p>See how this project differs from traditional financial literacy programs.</p>
-<a href="WHY_THIS_CURRICULUM.md">Learn More</a>
 </div>
+
+---
+
+## The Big Idea
+
+Most people learn financial lessons after they make expensive mistakes.
+
+**Future Ready Finance helps you learn them before the consequences become real.**
 
 </div>
 
