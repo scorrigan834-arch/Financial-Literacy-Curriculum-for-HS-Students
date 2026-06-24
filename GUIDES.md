@@ -1,5 +1,11 @@
 # Guides
 
+## Practical financial guidance organized around real decisions.
+
+The guides below are designed to help you understand the tradeoffs, risks, and opportunities behind common financial choices.
+
+...
+
 > ⭐ Recommended Starting Guides
 
 1. How Much Student Debt Is Too Much?
