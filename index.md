@@ -92,6 +92,15 @@ Future Ready Finance helps students, young adults, and early professionals make 
 ---
 ---
 
+<div class="feature-card">
+<h2>Not Sure Where You Fit?</h2>
+<p>Start with the stage that sounds most like your current financial life. You can always move between paths as your goals change.</p>
+
+<a class="btn" href="LIFE_STAGES.md">Compare Life Stages</a>
+</div>
+
+---
+
 ## Choose Your Life Stage
 
 <div class="stage-grid">
