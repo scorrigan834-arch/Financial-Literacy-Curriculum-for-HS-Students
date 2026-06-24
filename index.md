@@ -29,6 +29,34 @@ Future Ready Finance helps students, young adults, and early professionals make 
 
 ---
 
+---
+
+## Your Future Ready Journey
+
+<div class="card-grid">
+
+<div class="card">
+<h3>1️⃣ Learn</h3>
+<p>Understand the financial concepts that matter most.</p>
+</div>
+
+<div class="card">
+<h3>2️⃣ Evaluate</h3>
+<p>Use guides and frameworks to evaluate your options.</p>
+</div>
+
+<div class="card">
+<h3>3️⃣ Simulate</h3>
+<p>Explore the consequences before making major decisions.</p>
+</div>
+
+<div class="card">
+<h3>4️⃣ Act</h3>
+<p>Move forward with confidence and clarity.</p>
+</div>
+
+</div>
+
 ## Choose Your Life Stage
 
 <div class="stage-grid">
