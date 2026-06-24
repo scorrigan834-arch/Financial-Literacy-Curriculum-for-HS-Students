@@ -680,3 +680,19 @@ blockquote {
 
   text-decoration: none;
 }
+/* Hero Visual Polish */
+
+.main-content h1:first-of-type {
+  background: linear-gradient(135deg, var(--deep-navy), var(--growth-green));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.main-content h1:first-of-type + p {
+  font-size: 1.05rem;
+}
+
+.feature-card:first-of-type {
+  margin-top: 2rem;
+  padding: 3rem;
+}
