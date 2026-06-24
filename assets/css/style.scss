@@ -472,3 +472,30 @@ blockquote {
   padding: 6px 12px;
   border-radius: 999px;
 }
+/* Better Homepage Section Spacing */
+
+.main-content > hr {
+  margin: 4rem 0;
+  opacity: 0.15;
+}
+
+.main-content h2 {
+  font-size: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.main-content h2::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 4px;
+  margin: 12px auto 0;
+  border-radius: 999px;
+  background: linear-gradient(
+    90deg,
+    var(--ocean-blue),
+    var(--growth-green)
+  );
+}
