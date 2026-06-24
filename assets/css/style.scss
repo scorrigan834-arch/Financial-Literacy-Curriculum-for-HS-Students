@@ -652,3 +652,21 @@ blockquote {
 .main-content {
   font-size: 1.05rem;
 }
+/* Premium Navigation */
+
+.main-content > p:first-of-type {
+  text-align: center;
+}
+
+.main-content > p:first-of-type a {
+  padding: 8px 14px;
+  border-radius: 999px;
+
+  transition: all 0.25s ease;
+}
+
+.main-content > p:first-of-type a:hover {
+  background: rgba(27, 79, 114, 0.1);
+
+  text-decoration: none;
+}
