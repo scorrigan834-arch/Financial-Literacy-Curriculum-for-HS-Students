@@ -1,28 +1,42 @@
 # Big Financial Decisions
 
-## Major decisions often have long-term consequences.
+Big Decisions
+
+Major decisions often have long-term consequences.
 
 Future Ready Finance helps you think through these decisions before they become expensive mistakes.
 
-...
-
-## The choices that shape your future.
-
-Most financial outcomes are not created by one single moment.
-
-They are shaped by a series of major decisions — education, career, housing, debt, investing, family, and lifestyle.
-
-Future Ready Finance helps you understand those decisions before the consequences become real.
-
----
+⸻
 
 <div class="feature-card">
-<h2>Start With the Decision, Not the Definition</h2>
-<p>People do not usually ask, “What is interest?” They ask, “Can I afford this loan?”</p>
-<p>This page organizes learning around the real financial decisions people actually face.</p>
+<h2>Start With The Decisions That Matter Most</h2>
+<p>
+Most financial success comes from a handful of important decisions made consistently over time.
+</p>
 </div>
 
----
+⸻
+
+<div class="card-grid">
+<div class="card">
+<h3>🎓 Education</h3>
+<p>College, trade school, certifications, and student debt.</p>
+</div>
+<div class="card">
+<h3>💼 Career</h3>
+<p>Income, benefits, and professional growth.</p>
+</div>
+<div class="card">
+<h3>🏠 Housing</h3>
+<p>Renting, buying, and affordability decisions.</p>
+</div>
+<div class="card">
+<h3>📈 Investing</h3>
+<p>Building wealth through time and consistency.</p>
+</div>
+</div>
+
+⸻
 
 ## Education Decisions
 
@@ -219,3 +233,4 @@ Future Ready Finance helps you understand those decisions before the consequence
 <p class="legal-note">
 Educational content only. Not financial, legal, tax, or investment advice. See <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a>.
 </p>
+
