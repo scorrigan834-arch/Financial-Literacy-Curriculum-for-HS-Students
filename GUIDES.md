@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Name — Future Ready Finance
+---
+
 # Guides
 
 ## Practical financial guidance organized around real decisions.
