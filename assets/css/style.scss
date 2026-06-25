@@ -822,3 +822,23 @@ body {
     padding: 1.5rem;
   }
 }
+/* Navigation Polish */
+
+.main-content > p:first-of-type {
+  text-align: center;
+  background: rgba(245, 247, 250, 0.9);
+  padding: 0.85rem 1rem;
+  border-radius: 999px;
+  box-shadow: 0 8px 22px rgba(13, 27, 42, 0.08);
+}
+
+.main-content > p:first-of-type a {
+  color: var(--deep-navy);
+  font-weight: 800;
+  padding: 6px 8px;
+}
+
+.main-content > p:first-of-type a:hover {
+  color: var(--growth-green);
+  text-decoration: none;
+}
