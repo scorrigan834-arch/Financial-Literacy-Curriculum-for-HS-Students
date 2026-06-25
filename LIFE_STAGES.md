@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Name — Future Ready Finance
+---
+
 # Learn By Life Stage
 
 ## Financial priorities change throughout life.
