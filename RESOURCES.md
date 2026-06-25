@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Name — Future Ready Finance
+---
+
 # Resources
 
 ## Your Future Ready Toolbox
