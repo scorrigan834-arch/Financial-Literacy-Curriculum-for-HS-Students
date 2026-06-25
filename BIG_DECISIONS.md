@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Name — Future Ready Finance
+---
+
 # Big Decisions
 
 ## Major financial decisions can shape your future for years.
