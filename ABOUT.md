@@ -1,87 +1,120 @@
-About Future Ready Finance
+# About Future Ready Finance
 
-Why Future Ready Finance Exists
+## Better Financial Decisions Start Before the Decision
 
-Most people learn financial lessons after making expensive mistakes.
+Most people learn about money after making expensive mistakes.
 
-Future Ready Finance exists to help people understand the consequences of major financial decisions before those decisions become real.
+Future Ready Finance was created to change that.
 
-⸻
+Our mission is to help students, young adults, and early professionals build financial confidence by learning through real-world decisions instead of memorizing financial vocabulary.
+
+---
 
 <div class="feature-card">
-<h2>Decision-Making Over Memorization</h2>
-<p>
-The goal is not to memorize financial definitions.
-The goal is to make better decisions throughout life.
-</p>
-</div>
-
-⸻
-
-<h2>Who This Is For</h2>
-<div class="card-grid">
-<div class="card">
-<h3>🎓 Students</h3>
-<p>Preparing for college, careers, and financial independence.</p>
-</div>
-<div class="card">
-<h3>📚 Young Adults</h3>
-<p>Learning how to manage money and navigate major life decisions.</p>
-</div>
-<div class="card">
-<h3>🚀 Early Professionals</h3>
-<p>Building a strong financial foundation and long-term habits.</p>
-</div>
-</div>
-
-⸻
-
-<h2>What Makes Future Ready Different?</h2>
-<div class="card-grid">
-<div class="card">
-<h3>🧭 Decision Focused</h3>
-<p>Centered around real-life choices instead of financial jargon.</p>
-</div>
-<div class="card">
-<h3>🎯 Life Stage Based</h3>
-<p>Content organized around where you are today.</p>
-</div>
-<div class="card">
-<h3>🔮 Future Focused</h3>
-<p>Helping people think ahead before decisions become real.</p>
-</div>
-</div>
-
-⸻
 
 <h2>Our Mission</h2>
+
 <p>
 Help people make better financial decisions before the consequences become real.
 </p>
 
-⸻
+<a class="btn" href="START_HERE.md">Start Your Journey</a>
 
-<h2>What's Next?</h2>
-<div class="card-grid">
-<div class="card">
-<h3>🎓 Life Stages</h3>
-<p>Find content tailored to where you are today.</p>
-<a href="LIFE_STAGES.md">Explore Life Stages</a>
 </div>
+
+---
+
+<h2>Who We Serve</h2>
+
+<div class="card-grid">
+
+<div class="card">
+<h3>🎓 High School Students</h3>
+<p>Preparing for life after graduation, first jobs, college decisions, and financial independence.</p>
+</div>
+
+<div class="card">
+<h3>📚 College Students</h3>
+<p>Managing student loans, budgeting, housing, internships, and building credit.</p>
+</div>
+
+<div class="card">
+<h3>🚀 Early Career Professionals</h3>
+<p>Learning to manage income, benefits, investing, debt, and career growth.</p>
+</div>
+
+<div class="card">
+<h3>🏡 Establishing Adults</h3>
+<p>Making larger financial decisions around homes, families, investing, and long-term planning.</p>
+</div>
+
+</div>
+
+---
+
+<h2>What Makes Future Ready Finance Different?</h2>
+
+<div class="card-grid">
+
+<div class="card">
+<h3>🧭 Decision-Based Learning</h3>
+<p>Learn through real financial choices instead of isolated financial terms.</p>
+</div>
+
+<div class="card">
+<h3>🎯 Life Stage Learning</h3>
+<p>Content is organized around where you are in life, making it more relevant and easier to apply.</p>
+</div>
+
+<div class="card">
+<h3>🔮 Learn Before It Matters</h3>
+<p>Practice decisions before they become expensive real-world consequences.</p>
+</div>
+
+</div>
+
+---
+
+<h2>Our Philosophy</h2>
+
+<div class="feature-card">
+
+<p>
+Financial literacy should not end with knowing definitions.
+
+Real financial confidence comes from understanding tradeoffs, evaluating choices, and developing the confidence to make thoughtful decisions throughout life.
+</p>
+
+</div>
+
+---
+
+<h2>Continue Exploring</h2>
+
+<div class="card-grid">
+
+<div class="card">
+<h3>🎓 Explore Life Stages</h3>
+<p>Start with the content that matches where you are today.</p>
+<a href="LIFE_STAGES.md">Life Stages</a>
+</div>
+
 <div class="card">
 <h3>🧠 Big Decisions</h3>
-<p>Explore the financial choices that shape your future.</p>
-<a href="BIG_DECISIONS.md">Explore Decisions</a>
+<p>Understand the financial choices that shape long-term outcomes.</p>
+<a href="BIG_DECISIONS.md">Big Decisions</a>
 </div>
+
 <div class="card">
 <h3>📚 Guides</h3>
-<p>Learn through practical financial guidance.</p>
-<a href="GUIDES.md">View Guides</a>
-</div>
+<p>Read practical financial education organized around real-life questions.</p>
+<a href="GUIDES.md">Guides</a>
 </div>
 
-⸻
+</div>
+
+---
 
 <p class="legal-note">
-Educational content only. Not financial, legal, tax, or investment advice. See <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a>.
+Future Ready Finance is an educational resource only. Content is provided for informational purposes and should not be considered financial, legal, tax, or investment advice. Always consult a qualified professional before making important financial decisions.
 </p>
