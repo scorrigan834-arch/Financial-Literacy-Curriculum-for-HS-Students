@@ -1,3 +1,9 @@
+---
+layout: default
+title: Page Name — Future Ready Finance
+---
+
+
 # Start Here
 
 ## New to Future Ready Finance?
