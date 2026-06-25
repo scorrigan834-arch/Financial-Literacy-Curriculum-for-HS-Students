@@ -20,12 +20,17 @@
 Future Ready Finance helps students, young adults, and early professionals make better financial decisions before the consequences become real.
 
 <div class="feature-card">
-<h2>Build confidence before the big decisions.</h2>
-<p>Choose your life stage, explore real-world money decisions, and use practical tools to understand the consequences before they become expensive.</p>
 
-<a class="btn" href="START_HERE.md">Get Started</a>
+<h2>Build confidence before the big decisions.</h2>
+
+<p>
+Choose your life stage, explore real-world money decisions, and use practical tools to understand the consequences before they become expensive.
+</p>
+
+<a class="btn" href="START_HERE.md">Start Here</a>
 <a class="btn" href="LIFE_STAGES.md">Choose Your Stage</a>
 <a class="btn" href="BIG_DECISIONS.md">Explore Decisions</a>
+
 </div>
 
 ---
