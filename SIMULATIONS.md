@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Name — Future Ready Finance
+---
+
 # Simulations
 
 ## Experience financial decisions before they become real.
