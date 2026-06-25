@@ -282,14 +282,14 @@ Helping people make better financial decisions before the consequences become re
 Helping people make better financial decisions before the consequences become real.
 </p>
 
-<a href="START_HERE.md">Start Here</a> •
-<a href="LIFE_STAGES.md">Life Stages</a> •
-<a href="BIG_DECISIONS.md">Big Decisions</a> •
-<a href="GUIDES.md">Guides</a> •
-<a href="SIMULATIONS.md">Simulations</a> •
-<a href="RESOURCES.md">Resources</a> •
-<a href="ABOUT.md">About</a> •
-<a href="OUR_APPROACH.md">Our Approach</a>
+<a href="START_HERE.html">Start Here</a>
+<a href="LIFE_STAGES.html">Life Stages</a>
+<a href="GUIDES.html">Guides</a>
+<a href="BIG_DECISIONS.html">Big Decisions</a>
+<a href="SIMULATIONS.html">Simulations</a>
+<a href="RESOURCES.html">Resources</a>
+<a href="ABOUT.html">About</a>
+<a href="OUR_APPROACH.html">Our Approach</a>
 </p>
 
 <p align="center">
