@@ -1,3 +1,8 @@
+---
+layout: default
+title: Page Name — Future Ready Finance
+---
+
 # About Future Ready Finance
 
 ## Better Financial Decisions Start Before the Decision
